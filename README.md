@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Vue, Typescript and Django**
 
-- ⚡ Fun fact **Water is better than coffee**
+- ⚡ Fun fact **water is better than coffee**
 <p align="left">
 </p>
 

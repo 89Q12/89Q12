@@ -6,7 +6,7 @@
 
 - :movie_camera: I'm the owner of the invidious instance [invidio.xamh.de](https://invidio.xamh.de)
 
-- 🔭 I’m currently working on [RuneBook](https://github.com/11tuvork28/RuneBook/), [Moderation Discord bot](https://github.com/japaneseenrichmentorganization/Yuno-Gasai-2/tree/migrateToTypscript)
+- 🔭 I’m currently working on [RuneBook](https://github.com/11tuvork28/RuneBook/), [youtubei-rs](https://github.com/11tuvork28/youtubei-rs/)
 
 - 🌱 I’m currently learning **Rust, TypeScript and to work with embeded systems like the Arduino**
 

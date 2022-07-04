@@ -6,9 +6,11 @@
 
 - :movie_camera: I'm the owner of the invidious instance [invidio.xamh.de](https://invidio.xamh.de)
 
-- 🔭 I’m currently working on [RuneBook](https://github.com/11tuvork28/RuneBook/), [youtubei-rs](https://github.com/11tuvork28/youtubei-rs/)
+- 🔭 I’m currently working on [rusted-invidious](https://github.com/11tuvork28/rusted-invidious/) and its associated projects
 
-- 🌱 I’m currently learning **Rust, TypeScript and to work with embeded systems like the Arduino**
+- 👯 I’m looking to collaborate on [rusted-invidious](https://github.com/11tuvork28/rusted-invidious/) and its associated projects
+
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Vue, Typescript and Django**
 

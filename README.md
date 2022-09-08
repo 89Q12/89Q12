@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Vue, Typescript, Django and or Rust related things**
+- 💬 Ask me about **K3S, Ansible, Terraform, Helm or Rust related things**
 
 - ⚡ Fun fact **water is better than coffee**
 <p align="left">

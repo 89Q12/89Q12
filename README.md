@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [rusted-invidious](https://github.com/11tuvork28/rusted-invidious/) and its associated projects
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **K3S, Ansible, Terraform, Helm or Rust related things**
 

@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [rusted-invidious](https://github.com/11tuvork28/rusted-invidious/) and its associated projects
 
-- 👯 I’m looking to collaborate on [rusted-invidious](https://github.com/11tuvork28/rusted-invidious/) and its associated projects
+- 👯 I’m looking to collaborate on [Rune Book](https://github.com/11tuvork28/runebook) and its associated projects
 
 - 🌱 I’m currently learning **Golang**
 

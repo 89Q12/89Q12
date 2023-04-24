@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11tuvork28&theme=radical" alt="11tuvork28" /></a> </p>
 
-- :movie_camera: I'm the owner of the invidious instance [watch.thekitty.zone](https://watch.thekitty.zone/)
-
 - 🔭 I’m currently working on nothing as I want more free time
 
 - 👯 I’m looking to possibly collaborate on [Rune Book](https://github.com/11tuvork28/runebook)

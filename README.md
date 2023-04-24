@@ -6,15 +6,15 @@
 
 - :movie_camera: I'm the owner of the invidious instance [watch.thekitty.zone](https://watch.thekitty.zone/)
 
-- 🔭 I’m currently working on [rusted-invidious](https://github.com/11tuvork28/rusted-invidious/) and its associated projects
+- 🔭 I’m currently working on nothing as I want more free time
 
-- 👯 I’m looking to collaborate on [Rune Book](https://github.com/11tuvork28/runebook)
+- 👯 I’m looking to possibly collaborate on [Rune Book](https://github.com/11tuvork28/runebook)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **NOTHING**
 
 - 💬 Ask me about **K3S, Ansible, Terraform, Helm or Rust related things**
 
-- ⚡ Fun fact **water is better than coffee**
+- ⚡ Fun fact **water is better than coffee but tea oh man thats best**
 <p align="left">
 </p>
 

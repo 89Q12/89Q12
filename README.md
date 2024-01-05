@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=89Q12&theme=radical" alt="89Q12" /></a> </p>
 
-- 🔭 I’m currently working on nothing as I want more free time
+- 🔭 I’m currently working on [MTB](https://github.com/89Q12/Mega-Transformers-bot) and my own Dotfile(s) repo, that will be able to reproduce my dev env everywhere I go
 
 - 👯 I’m looking to possibly collaborate on [Rune Book](https://github.com/89Q12/runebook)
 
-- 🌱 I’m currently learning **NOTHING**
+- 🌱 I’m currently learning **Emacs**
 
-- 💬 Ask me about **K3S, Ansible, Terraform, Helm or Rust related things**
+- 💬 Ask me about **K8S, Ansible, Terraform, Helm or Rust related things**
 
 - ⚡ Fun fact **water is better than coffee but tea oh man thats best**
 <p align="left">

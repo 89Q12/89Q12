@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=89Q12&theme=radical" alt="89Q12" /></a> </p>
 
-- 🔭 I’m currently working on [MTB](https://github.com/89Q12/Mega-Transformers-bot) and my own Dotfile(s) repo, that will be able to reproduce my dev env everywhere I go
+- 🔭 I’m currently working on [MTB](https://github.com/89Q12/Mega-Transformers-bot) and my own Dotfile(s)/dev-env [repo](https://github.com/89Q12/dev-env), that will be able to reproduce my dev env everywhere I go
 
 - 👯 I’m looking to possibly collaborate on [Rune Book](https://github.com/89Q12/runebook)
 

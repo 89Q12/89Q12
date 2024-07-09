@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from Germany</h3>
 
-<p align="left"> <img src="https://count.ayaya.beauty/get/@:89q12?theme=asoul" alt="89Q12" /> </p>
+<p align="center"> <img src="https://count.ayaya.beauty/get/@:89q12?theme=asoul" alt="89Q12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=89Q12&theme=radical" alt="89Q12" /></a> </p>
 

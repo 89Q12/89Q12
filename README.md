@@ -1,4 +1,5 @@
-<h3 align="center">A passionate developer from Germany</h3>
+<h3 align="center">Uh hii! :3</h3>
+That 3D printed queer bio/neuro-hacker puppygirl, that is left filled with microplastics.
 
 <p align="center"> <img src="https://count.ayaya.beauty/get/@:89q12?theme=asoul" alt="89Q12" /> </p>
 

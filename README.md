@@ -36,7 +36,7 @@ Ask me about **K8S, Ansible, Terraform, Helm or Rust related things**!
 
 ## Other things
 
-###  My dev env
+###  My dev env 
 
 I mainly work from within the Terminal utilizing Neovim or K9S for most tasks, most of my Neovim config is availble on my profile as well.
 
@@ -45,6 +45,16 @@ I mainly work from within the Terminal utilizing Neovim or K9S for most tasks, m
 - PCB Design
 - Hardware (reverse)engineering
 - Embeded developement
+
+### Things I host for myself
+
+- Mail
+- Wiki
+- Photomanagement
+
+## How to reach me
+
+Either you know and already have contact info or via E-mail 89q12[at]puppy[.]rip for questions or discussions related to kubernetes or IaC etc :3
 
 <!--
 **89Q12/89Q12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

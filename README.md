@@ -6,6 +6,8 @@ You're one of:
 <p align="center"> <img src="https://count.ayaya.beauty/get/@:89q12?theme=asoul" alt="89Q12" /> </p>
 Profile visitors!
 
+I do a lot of different things mostly thanks to my "Fine I will do it myself" mentallity, for my latest random venture check out Issues or PRs I opened at random projects.
+
 ## What I do
 I love to do various things, be it analoge non digital or digital hobbies, at work I tend to do these things:
 - Monitoring and Observability
@@ -29,12 +31,20 @@ Ask me about **K8S, Ansible, Terraform, Helm or Rust related things**!
 - Hands on experience with open stack
 - Production DNS setup and related topics such as DNS loadbalancing
 - Large scale layer 2 networking and debugging
+- Hands on experience with Forti products with Enterprise license 
+
 
 ## Other things
 
 ###  My dev env
 
 I mainly work from within the Terminal utilizing Neovim or K9S for most tasks, most of my Neovim config is availble on my profile as well.
+
+### Things I want learn personally
+
+- PCB Design
+- Hardware (reverse)engineering
+- Embeded developement
 
 <!--
 **89Q12/89Q12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
